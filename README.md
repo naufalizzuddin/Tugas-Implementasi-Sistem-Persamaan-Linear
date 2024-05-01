@@ -1,5 +1,6 @@
 # Tugas Implementasi Sistem Persamaan Linear
-Berisikan 3 metode penyelesaian sistem persamaan linear yaitu dengan:
+## Deskripsi
+Merupakan implementasi kode untuk permasalahan sistem persamaan linier yang dibuat dengan bahasa Python. Berisikan 3 metode penyelesaian yaitu:
 - metode matriks balikan
 - metode dekomposisi LU Gauss
 - metode dekomposisi Crout <br>
