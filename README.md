@@ -5,9 +5,4 @@ Merupakan implementasi kode untuk permasalahan sistem persamaan linier yang dibu
 - metode dekomposisi LU Gauss
 - metode dekomposisi Crout <br>
 
-|   |   |
-|---|---|
-|Nama | Naufal Izzuddin Taufik |
-|NIM | 21120122140102 |
-|Kelas | Metode Numerik B| 
 
